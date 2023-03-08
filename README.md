@@ -3,9 +3,15 @@
 * @Author: x6
 * @Date: 2023-02-04 19:13:53
  * @LastEditors: x6
- * @LastEditTime: 2023-03-08 17:09:33
+ * @LastEditTime: 2023-03-08 21:36:46
  * @FilePath: \mangfu\README.md
     -->
+
+```
+https://visitor-badge.vercel.app?page_id={fwktlsx6}
+https://visitor-badge.vercel.app/page/{fwktlsx6}
+https://visitor-badge.vercel.app/p/{fwktlsx6}
+```
 
 # 自用青龙脚本库
 
