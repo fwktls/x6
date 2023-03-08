@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "@alicloud/alidns20150109": "^3.0.1",
-    "axios": "^1.3.4",
     "cheerio": "^1.0.0-rc.12",
     "crypto-js": "^4.1.1",
-    "jsdom": "^21.1.0",
-    "xmldom": "^0.6.0",
-    "xmldom-silent": "^0.1.19",
-    "xpath": "^0.0.32",
-    "xpath-html": "^1.0.3"
+    "jsdom": "^21.1.0"
+
   }
 }
