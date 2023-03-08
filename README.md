@@ -3,16 +3,11 @@
 * @Author: x6
 * @Date: 2023-02-04 19:13:53
  * @LastEditors: x6
- * @LastEditTime: 2023-03-08 21:38:38
+ * @LastEditTime: 2023-03-08 21:39:57
  * @FilePath: \mangfu\README.md
     -->
 
-
-[![visitors](https://visitor-badge.vercel.app/p/fwktlsx6?color=brightgreen)](https://github.com/WangNingkai/visitor-badge-node)
-![GitHub top language](https://img.shields.io/github/languages/top/wangningkai/visitor-badge-node.svg?style=popout-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/wangningkai/visitor-badge-node.svg?style=popout-square)
-![GitHub](https://img.shields.io/github/license/wangningkai/visitor-badge-node.svg?style=popout-square)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![visitors](https://visitor-badge.vercel.app/p/fwktlsx6?color=brightgreen)](https://github.com/fwktls/x6)
 
 # 自用青龙脚本库
 
