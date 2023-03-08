@@ -3,7 +3,7 @@
 * @Author: x6
 * @Date: 2023-02-04 19:13:53
  * @LastEditors: x6
- * @LastEditTime: 2023-02-27 22:21:33
+ * @LastEditTime: 2023-03-08 17:04:52
  * @FilePath: \mangfu\README.md
     -->
 
@@ -11,7 +11,7 @@
 
 杂七杂八的脚本
 
-# QuantumultX  配置
+# QuantumultX  食用说明
 
 ## 创建青龙配置任务
 
@@ -19,7 +19,7 @@
 0 0 1 1 * https://raw.githubusercontent.com/fwktls/x6/master/qlconfig.js, tag=配置青龙, enabled=true
 ```
 
-QuantumultX 添加任务，然后修改脚本中的 url id secret
+QuantumultX 添加任务，然后修改脚本中的青龙面板 url id secret，然后运行一次，将其储存于持久化数据中，就完事了。
 
 ```js
 var Qlconf = {
@@ -29,7 +29,7 @@ var Qlconf = {
 };
 ```
 
-## [rewrite_remote]
+## [rewrite_remote] 订阅重写配置
 
 ```
 https://raw.githubusercontent.com/fwktls/x6/master/github_Cookie.conf, tag=获取cookie, update-interval=172800, opt-parser=false, enabled=true
