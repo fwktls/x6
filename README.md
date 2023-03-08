@@ -11,11 +11,9 @@
 
 杂七杂八的脚本
 
-# QuantumultX 重写
-
-实现QuantumultX获取的cookie等信息后。直接添加到青龙面板。
-
 # QuantumultX  食用说明
+
+实现 QuantumultX 获取到 cookie 等信息后，直接添加到青龙面板。
 
 ## 创建青龙配置任务
 
