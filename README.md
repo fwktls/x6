@@ -3,13 +3,17 @@
 * @Author: x6
 * @Date: 2023-02-04 19:13:53
  * @LastEditors: x6
- * @LastEditTime: 2023-03-08 17:04:52
+ * @LastEditTime: 2023-03-08 17:09:33
  * @FilePath: \mangfu\README.md
     -->
 
 # 自用青龙脚本库
 
 杂七杂八的脚本
+
+# QuantumultX 重写
+
+实现QuantumultX获取的cookie等信息后。直接添加到青龙面板。
 
 # QuantumultX  食用说明
 
