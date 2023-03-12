@@ -41,9 +41,10 @@ https://raw.githubusercontent.com/fwktls/x6/master/github_Cookie.conf, tag=获�
 
 ## COOKIE 订阅列表：
 
-| 序号 |   脚本名   |                               脚本链接                               |
-| :--: | :--------: | :------------------------------------------------------------------: |
-|  1   |   极客云   |  https://raw.githubusercontent.com/fwktls/x6/master/cookie/jkyck.js  |
-|  2   |  番茄小说  | https://raw.githubusercontent.com/fwktls/x6/master/cookie/fqxsck.js  |
-|  3   | 什么值得买 | https://raw.githubusercontent.com/fwktls/x6/master/cookie/smzdmck.js |
+| 序号  | 脚本名   | 脚本链接                                                                 | 说明                                |
+|:---:|:-----:|:--------------------------------------------------------------------:|:---------------------------------:|
+| 1   | 极客云   | https://raw.githubusercontent.com/fwktls/x6/master/cookie/jkyck.js   |                                   |
+| 2   | 番茄小说  | https://raw.githubusercontent.com/fwktls/x6/master/cookie/fqxsck.js  | 番茄拉闸了 |
+| 3   | 什么值得买 | https://raw.githubusercontent.com/fwktls/x6/master/cookie/smzdmck.js | 最新版app可用                          |
+
 
